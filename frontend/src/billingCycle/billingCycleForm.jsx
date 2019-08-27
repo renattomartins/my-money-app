@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 
-class ByllingCycleForm extends Component {
+class BillingCycleForm extends Component {
 
     render() {
         return (
@@ -16,4 +16,4 @@ class ByllingCycleForm extends Component {
     }
 }
 
-export default ByllingCycleForm
+export default BillingCycleForm

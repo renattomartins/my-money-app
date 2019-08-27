@@ -11,8 +11,8 @@ import TabHeader from '../common/tab/tabHeader'
 import TabContent from '../common/tab/tabContent'
 import { selectTab, showTabs } from '../common/tab/tabActions'
 
-import List from './byllingCycleList'
-import Form from './byllingCycleForm'
+import List from './billingCycleList'
+import Form from './billingCycleForm'
 
 class BillingCycle extends Component {
 

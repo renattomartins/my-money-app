@@ -3,7 +3,7 @@ import { reducer as formReducer } from 'redux-form'
 
 import DashboardReducer from '../reduxDashboard/dashboardReducer'
 import TabReducer from '../common/tab/tabReducer'
-import BillingCycleReducer from '../billingCycle/byllingCycleReducer' 
+import BillingCycleReducer from '../billingCycle/billingCycleReducer' 
 
 const rootReducer = combineReducers({
     dashboard: DashboardReducer,
