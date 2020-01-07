@@ -11,3 +11,9 @@ button {
 .table-actions {
     width: 150px;
 }
+
+.clearfix {
+    display: block;
+    content: "";
+    clear: both;
+}
