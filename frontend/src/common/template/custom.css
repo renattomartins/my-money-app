@@ -16,4 +16,5 @@ button {
     display: block;
     content: "";
     clear: both;
+    padding: 0 15px;
 }
